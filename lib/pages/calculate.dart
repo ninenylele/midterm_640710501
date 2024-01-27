@@ -64,8 +64,8 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
         child: Padding(
           padding: const EdgeInsets.all(5.0),
           child: Container(
-            width: 70.0, // ตั้งความกว้าง
-            height: 70.0, // ตั้งความสูง
+            width: 70.0,
+            height: 70.0,
             color: Color.fromARGB(255, 164, 241, 186),
             alignment: Alignment.center,
             padding: EdgeInsets.all(16.0),
